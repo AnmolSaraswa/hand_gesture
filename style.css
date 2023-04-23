@@ -1,0 +1,27 @@
+body:hover
+{
+  color: rgb(255, 255, 255);
+  background:linear-gradient(to top left,rgb(255, 0, 0),rgb(255, 0, 115),rgb(255, 0, 183),rgb(187, 0, 255),rgb(64, 0, 255));
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed rgb(0, 255, 38);
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: rgba(255, 235, 182, 0);
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
